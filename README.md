@@ -1,6 +1,7 @@
 # RVThereYet?
 # RVThereYetRUS
-Русская локализация текста игры Rv there yet
+#Руссификатор RVThereYet
+Руссификатор текста игры Rv there yet
 
 Работа сделана на основе работы пользователя https://github.com/costilman, за что ему спасибо!
 Полный текстовый перевод
