@@ -3,6 +3,9 @@
 #Руссификатор RVThereYet
 Руссификатор текста игры Rv there yet
 
+Новый русификатор
+https://github.com/oldblood37/RvYetRusFull
+
 Работа сделана на основе работы пользователя https://github.com/costilman, за что ему спасибо!
 Полный текстовый перевод
 +Меню
